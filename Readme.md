@@ -29,7 +29,7 @@ Archive
 
 - Accueil
 
-![](2.png)
+![](1.png)
 
 - Visualisation des datas 
 ![](2.png)
