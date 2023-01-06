@@ -1,0 +1,33 @@
+{
+  "ASSETS": {
+    "altname": "TLMUSD",
+    "wsname": "TLM/USD",
+    "aclass_base": "currency",
+    "base": "TLM",
+    "aclass_quote": "currency",
+    "quote": "ZUSD",
+    "lot": "unit",
+    "cost_decimals": 7,
+    "pair_decimals": 5,
+    "lot_decimals": 8,
+    "lot_multiplier": 1,
+    "leverage_buy": [],
+    "leverage_sell": [],
+    "margin_call": 80,
+    "margin_stop": 40,
+    "ordermin": "350",
+    "costmin": "0.5",
+    "tick_size": "0.00001",
+    "status": "online"
+  },
+  "PRIX_ACHAT": "0.0124000",
+  "PRIX_VENTE": "0.0123700",
+  "PRICE": "0.0124000",
+  "VOLUME": "188921.36100241",
+  "VWAP": "0.0124145",
+  "VOLUME_MOYENNE": 38,
+  "LOW": "0.0123500",
+  "HIGH": "0.0126400",
+  "OPENING": "0.0125600",
+  "TIMESTAMP": "2023-01-05T23:55:14Z"
+}
